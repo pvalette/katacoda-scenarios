@@ -14,6 +14,14 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "setenv.sh",
+          "target": "~/"
+        }
+      ] 
     }
   },"files": [
     "setenv.sh"
