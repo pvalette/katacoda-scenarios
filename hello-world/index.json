@@ -19,7 +19,7 @@
     "assets": {
       "client": [
         {
-          "file": "setenv.sh",
+          "file": "index.js",
           "target": "~/"
         }
       ] 
