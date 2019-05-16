@@ -21,6 +21,10 @@
         {
           "file": "index.js",
           "target": "~/"
+        },
+         {
+          "file": "setenv.sh",
+          "target": "~/"
         }
       ] 
     }
