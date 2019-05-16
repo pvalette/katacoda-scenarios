@@ -29,7 +29,7 @@
       ] 
     }
   },"files": [
-    "setenv.sh"
+    "index.js","setenv.sh"
   ],
   "environment": {
        "hideintro": true,
