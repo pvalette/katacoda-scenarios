@@ -32,8 +32,8 @@
     "index.js","setenv.sh"
   ],
   "environment": {
-       "hideintro": false,
-        "hidefinish": false,
+       "hideintro": true,
+        "hidefinish": true,
         "uilayout": "editor-terminal",
         "uisettings": "javascript",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nWelcome\u001b[m\r\n"
