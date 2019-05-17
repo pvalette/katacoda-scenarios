@@ -2,6 +2,12 @@ This is your first step.
 
 ## Task
 
-This is an _example_ of creating a scenario and running a **command**
+In the Edit window, enter
 
+console.log("Hello World");
+
+and in the command console type 
+ 
 `node index.js`{{execute}}
+
+or click it
