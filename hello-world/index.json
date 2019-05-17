@@ -1,6 +1,6 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First API call",
+  "title": "Register to Orange Developer Portal",
+  "description": "fdfsdfdsfssdffsdfsddf",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
@@ -32,8 +32,8 @@
     "index.js","setenv.sh"
   ],
   "environment": {
-       "hideintro": true,
-        "hidefinish": true,
+       "hideintro": false,
+        "hidefinish": false,
         "uilayout": "editor-terminal",
         "uisettings": "javascript",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nWelcome\u001b[m\r\n"
